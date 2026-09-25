@@ -14,4 +14,4 @@ git config --global user.email YOUR-EMAIL
 
 # here set remote
 
-# yes and no
+# yes and no and maybe
